@@ -1,6 +1,6 @@
 {
   "sdk": {
-    "channel": "7.0.1xx-preview4",
+    "channel": "7.0.1xx-preview6",
     "quality": "daily",
     "qualityFallback": "preview",
     "packageVersionPattern": "7.0.0-preview.4",
